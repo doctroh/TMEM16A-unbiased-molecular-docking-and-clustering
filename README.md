@@ -1,2 +1,2 @@
 # Unbiased-molecular-docking-and-clustering
-Unbiased molecular docking and clustering for TMEM16A
+Unbiased molecular docking and clustering method for TMEM16A
